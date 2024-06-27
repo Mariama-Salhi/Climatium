@@ -1,0 +1,101 @@
+{
+    "planetas": [
+      {
+        "nombre": "Mercurio",
+        "tipo": "Terrestre",
+        "masa": "0.055 masas terrestres",
+        "radio": "2,439.7 km",
+        "gravedad": "3.7 m/s²",
+        "periodo_rotacion": "58.6 días",
+        "periodo_translacion": "87.97 días",
+        "temperatura_promedio": "167 °C",
+        "numero_de_lunas": 0,
+        "imagen": "./img/mercury.png"
+      },
+      {
+        "nombre": "Venus",
+        "tipo": "Terrestre",
+        "masa": "0.815 masas terrestres",
+        "radio": "6,051.8 km",
+        "gravedad": "8.87 m/s²",
+        "periodo_rotacion": "243 días",
+        "periodo_translacion": "224.7 días",
+        "temperatura_promedio": "464 °C",
+        "numero_de_lunas": 0,
+        "imagen": "./img/venus.png"
+      },
+      {
+        "nombre": "Tierra",
+        "tipo": "Terrestre",
+        "masa": "1 masa terrestre",
+        "radio": "6,371 km",
+        "gravedad": "9.81 m/s²",
+        "periodo_rotacion": "24 horas",
+        "periodo_translacion": "365.25 días",
+        "temperatura_promedio": "15 °C",
+        "numero_de_lunas": 1,
+        "imagen": "./img/earth.png"
+      },
+      {
+        "nombre": "Marte",
+        "tipo": "Terrestre",
+        "masa": "0.107 masas terrestres",
+        "radio": "3,389.5 km",
+        "gravedad": "3.71 m/s²",
+        "periodo_rotacion": "24.6 horas",
+        "periodo_translacion": "687 días",
+        "temperatura_promedio": "-65 °C",
+        "numero_de_lunas": 2,
+        "imagen": "./img/mars.png"
+      },
+      {
+        "nombre": "Júpiter",
+        "tipo": "Gigante gaseoso",
+        "masa": "317.8 masas terrestres",
+        "radio": "69,911 km",
+        "gravedad": "24.79 m/s²",
+        "periodo_rotacion": "9.9 horas",
+        "periodo_translacion": "11.86 años",
+        "temperatura_promedio": "-110 °C",
+        "numero_de_lunas": 79,
+        "imagen": "./img/jupiter.png"
+      },
+      {
+        "nombre": "Saturno",
+        "tipo": "Gigante gaseoso",
+        "masa": "95.16 masas terrestres",
+        "radio": "58,232 km",
+        "gravedad": "10.44 m/s²",
+        "periodo_rotacion": "10.7 horas",
+        "periodo_translacion": "29.46 años",
+        "temperatura_promedio": "-140 °C",
+        "numero_de_lunas": 82,
+        "imagen": "./img/saturn.png"
+      },
+      {
+        "nombre": "Urano",
+        "tipo": "Gigante gaseoso",
+        "masa": "14.54 masas terrestres",
+        "radio": "25,362 km",
+        "gravedad": "8.69 m/s²",
+        "periodo_rotacion": "17.2 horas",
+        "periodo_translacion": "84.01 años",
+        "temperatura_promedio": "-195 °C",
+        "numero_de_lunas": 27,
+        "imagen": "./img/uranus.png"
+      },
+      {
+        "nombre": "Neptuno",
+        "tipo": "Gigante gaseoso",
+        "masa": "17.15 masas terrestres",
+        "radio": "24,622 km",
+        "gravedad": "11.15 m/s²",
+        "periodo_rotacion": "16.1 horas",
+        "periodo_translacion": "164.79 años",
+        "temperatura_promedio": "-200 °C",
+        "numero_de_lunas": 14,
+        "imagen": "./img/neptune.png"
+      }
+    ]
+  }
+  
